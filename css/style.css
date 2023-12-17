@@ -1,0 +1,22 @@
+.container-fluid{
+    background-color: darkgray;
+}
+
+.d-block{
+    border-radius: 30%;
+    height: 500px;
+}
+
+.display-5{
+    font-family: Cursive;
+    font-style: italic;
+}
+.lead {
+    font-family: Cursive;
+    font-style: italic;
+}
+
+.list-group-item{
+    background-color:gray
+}
+
